@@ -6,6 +6,3 @@
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCursedNet.js® is an open-source organization that develops web applications, web technologies. ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWe program in the languages: C#, JS, TS, and also use libraries and frameworks: Node.js, React, Vue.
 </h5>
 
----
-<h5>🤙 Contributing to CursedNet.js</h5>
-CursedNet.js is an open source project, and it's always looking for new notributions.
